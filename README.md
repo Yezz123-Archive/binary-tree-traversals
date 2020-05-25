@@ -92,3 +92,4 @@ Postorder Traversal (Practice):
       Postorder traversal of binary tree is
       4 5 2 3 1
 
+![Preorder-from-Inorder-and-Postorder-traversals](https://user-images.githubusercontent.com/52716203/82768933-e7524e00-9e29-11ea-85da-e02d2376f55d.jpg)
