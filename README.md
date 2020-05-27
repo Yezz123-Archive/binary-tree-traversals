@@ -1,6 +1,4 @@
-
-
-
+![Untitled-2](https://user-images.githubusercontent.com/52716203/83064761-3b437980-a05a-11ea-96f6-49ad539c5cf3.png)
 # Data structures for tree traversal:
   
       Traversing a tree involves iterating over all nodes in some manner. 
